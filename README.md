@@ -11,10 +11,14 @@
 
 ## Agregar Tablas
 Para que los titulos funcionen tiene que haber un espacio entre los ¨#¨ y las palabras
+Las columnas utilizan "|" y "-"
 
 | Col1 | Columa detalle |
 |-----|---------------|
 |     1|  Parametro 1  |
 |     2|  Parametro 2  |
 |     3|  Parametro 3  |
+
+Hay formatos de Texto con `Estas comillas`, *Asterisco*, **Doble asterisco**
+
 
