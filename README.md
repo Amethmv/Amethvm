@@ -37,9 +37,11 @@ Para agregar secciones se utiliza la siguiente sintaxis
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
-<details>
+
+</details>
 
 Para mantener la seccion abierta se tiene que utilizar 
 <details open>
   Hola
-<details>
+</details>
+
