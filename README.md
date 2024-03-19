@@ -23,7 +23,8 @@ Hay formatos de Texto con `Estas comillas`, *Asterisco*, **Doble asterisco**
 Tambien se puede usar dentro de columnas.
 
 | Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: | e
+| :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
+ La linea entre los elememtos y el titulo de la columna tambien idenfitica como se orientan los datos de la columna  |:----:| |:----| |----:| 
