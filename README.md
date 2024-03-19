@@ -11,8 +11,13 @@
 
 ## Agregar Tablas
 Para que los titulos funcionen tiene que haber un espacio entre los ¨#¨ y las palabras
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
+
+| Fist | Detalles |
+| ---- | -------- |
+| Prueba 1| Prueba 2 |
