@@ -13,7 +13,7 @@
 Para que los titulos funcionen tiene que haber un espacio entre los ¨#¨ y las palabras
 
 | Col1 | Columa detalle |
-|-----:|---------------|
+|-----|---------------|
 |     1|  Parametro 1  |
 |     2|  Parametro 2  |
 |     3|  Parametro 3  |
