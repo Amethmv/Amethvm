@@ -45,3 +45,9 @@ Para mantener la seccion abierta se tiene que utilizar
   Hola
 </details>
 
+Para agregar notas o quotes se utilizan dos parametros, tres o mas "-" generan una raya horizontal, y el formato ">" te permite colocar la nota.
+
+---
+
+> mira esta notita
+
