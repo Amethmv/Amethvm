@@ -28,3 +28,14 @@ Tambien se puede usar dentro de columnas.
 | git diff     | git diff       | git diff      |
 
  La linea entre los elememtos y el titulo de la columna tambien idenfitica como se orientan los datos de la columna  |:----:| |:----| |----:| 
+
+Para agregar secciones se utiliza la siguiente sintaxis
+
+<details>
+<summary>Ventanita</summary>
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+
+</details>
