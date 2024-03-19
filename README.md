@@ -10,3 +10,4 @@
 </picture>
 
 ## Agregar Tablas
+Para que los titulos funcionen tiene que haber un espacio entre los ¨#¨ y las palabras
