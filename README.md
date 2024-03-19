@@ -39,4 +39,7 @@ Para agregar secciones se utiliza la siguiente sintaxis
 | git status   | git status     | git status    |
 </details>
 
-Para mantener la seccion abierta se tiene que utilizar <details open>
+Para mantener la seccion abierta se tiene que utilizar 
+<details open>
+  Hola
+<details>
