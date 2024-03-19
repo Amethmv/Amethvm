@@ -20,5 +20,10 @@ Las columnas utilizan "|" y "-"
 |     3|  Parametro 3  |
 
 Hay formatos de Texto con `Estas comillas`, *Asterisco*, **Doble asterisco**
+Tambien se puede usar dentro de columnas.
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: | e
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
